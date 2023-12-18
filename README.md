@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ambersultan124@gmail.com**
 
-- 📄 Know about my experiences [completed Internship in Web Development](completed Internship in Web Development)
+- 📄 Know about my experiences [completed Internship in Web Development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
