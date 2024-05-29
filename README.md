@@ -50,7 +50,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,redux" />
   </a>
 </p>
 
