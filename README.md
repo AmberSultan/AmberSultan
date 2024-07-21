@@ -71,11 +71,14 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center"> 
+<div align="center" > 
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambersultan&show_icons=true&locale=en&layout=compact" alt="ambersultan" /></p>
-</div>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambersultan&" alt="ambersultan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambersultan&show_icons=true&locale=en" alt="ambersultan" /></p> !-->
+</div>
 <br><br> 
 
 
