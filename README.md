@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amber Sultan</h1>
 <h3 align="center">To code or not to code?</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">🛠️ Building things that sometimes actually work 😒</p>
 
 <br>
 
@@ -73,9 +73,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center"> 
  
-<!-- ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambersultan&show_icons=true&locale=en&layout=compact" alt="ambersultan" /></p>
 </div>
