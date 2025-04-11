@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋, I'm Amber | Front End Developer. Passionate about building responsive web apps, solving complex problems, and exploring new technologies.</h2>
+<h2 align="left">Hi 👋, I'm Amber | Front End Developer.
+  <br>Passionate about building responsive web apps, solving complex problems, and exploring new technologies.</h2>
 
 ###
 
