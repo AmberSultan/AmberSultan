@@ -68,6 +68,5 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.gifer.com/JXA0.gif"  />
 
 ###
