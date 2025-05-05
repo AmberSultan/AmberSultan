@@ -1,11 +1,18 @@
-<h2 align="left">Hi 👋, I'm Amber | Front End Developer. </h2>
-  <br/>
-  <br/>
- <p>Passionate about building responsive web apps, solving complex problems, and exploring new technologies. </p> 
+<h2 align="left">Hi there, I'm Amber 👋 | Front End Developer.</h2>
+<br clear="both">
 
-###
+## About Me
+
+Passionate about building **responsive web apps**, solving **complex problems**, and exploring **new technologies**.  
+When I’m not debugging, I’m probably learning the **latest frontend trends**. 😵
+
+- 🔍 Currently learning **Next.js**
+- 💬 Ask me about 🎨 UI/UX Design,🖌️ Graphic Designing
+- 📫 How to reach me: [LinkedIn – Amber Sultan](https://www.linkedin.com/in/ambersultan/)
 
 <br clear="both">
+
+## 🛠️ Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
@@ -39,6 +46,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AmberSultan/AmberSultan/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+## 🌐 Connect with Me
+
 <div align="left">
   <a href="ambersultan124@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -53,11 +68,11 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/AmberSultan/AmberSultan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmberSultan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
